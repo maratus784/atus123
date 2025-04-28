@@ -95,7 +95,7 @@
       text-align: center;
     }
 
-     .tentang img {
+   .tentang img {
       width: 150px;
       height: 150px;
       object-fit: cover;
